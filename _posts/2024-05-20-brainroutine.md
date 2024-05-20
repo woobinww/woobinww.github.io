@@ -24,10 +24,14 @@ comments: true
     - 뇌줄기(brain stem)과 평행하게 한다
     - 정중면과 수직을 이루어야한다
     - 앞 뒤로 brain이 충분히 포함되게 한다
+![2024-05-20_124736](https://github.com/woobinww/woobinww.github.io/assets/111553878/4043e2d1-1e45-45c1-8d06-f922c50bc7f6)
+
 
 * SAG 
     - parallel to MID-sagittal line  
 	- slice 수를 홀수로(mid-sagittal plane 이 나오게)
+![2024-05-20_124617](https://github.com/woobinww/woobinww.github.io/assets/111553878/f420d604-de53-4555-912e-9d46d37462ee)
+
 #### Protocol
 1. T1 SE SAG
 2. T2 TSE AX
