@@ -18,7 +18,7 @@ comments: true
     - slice를 AC-PC Line에 평행하게 하도록 한다
     - brain이 충분히 포함되도록 slice 수를 조정한다
     - 아래쪽으로는 소뇌가 충분히 포함되어야하며, foramen magnum 까지 포함하게 늘려준다
-    ![ac-pc line axl plan](https://github.com/blitzfart/woobin_MRI.github.io/blob/main/images/2024-05-20_123915.png)
+  	![2024-05-20_123915](https://github.com/woobinww/woobinww.github.io/assets/111553878/c9f75025-6310-4f0a-8b12-38cdf4a379a9)
 
 * COR 
     - 뇌줄기(brain stem)과 평행하게 한다
