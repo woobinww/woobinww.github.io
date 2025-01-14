@@ -9,7 +9,7 @@ navbar_entries:
     url: https://woobinww.github.io
 
 project_entries:
-  - title: 감탄정형외과 MRI 블로그
+  - title: 정형외과 MRI 블로그
     url: https://woobinww.github.io/intro-mr
     desc: MRI에 대한 소개, 검사 manual 제작
 

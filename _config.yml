@@ -2,7 +2,7 @@ title: woobin-MRI
 author: woobin
 url:  # root address of the site
 description: > # description of the site (multiple lines allowed)
-    감탄병원 MRI 정리를 위한 블로그
+    정형외과과 MRI 정리를 위한 블로그
 
 permalink: /:slug
 
